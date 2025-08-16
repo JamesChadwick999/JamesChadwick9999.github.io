@@ -347,9 +347,8 @@ form{
     border: 1px solid black;
     box-shadow: 0 0 15px black;
     padding:30px;
-    width:1100px;
     border-radius: 20px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 .bring{
     display:flex;
@@ -357,16 +356,19 @@ form{
     margin-bottom: 50px;
 }
 .what{
-    text-align: left;
-    font-size:60px ;
+    text-align: center;
+    font-size:40px ;
     margin-bottom: 10px;
 }
 .beast{
-    display:flex;
-    justify-content: space-between;
+    display:grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
 }
 .where{
-    width:500px;
+    width:300px;
     border-radius: 10px;
     border: 2px solid black;
     font-size: 30px;
@@ -385,7 +387,7 @@ form{
     margin-top: 20px;
 }
 .when{
-    width:500px;
+    width:300px;
     height:300px;
     border-radius: 10px;
     font-size:30px;
@@ -396,7 +398,7 @@ form{
 }
 .right{
     display:flex;
-    justify-content: right;
+    justify-content: center;
     margin-top: 30px;
 }
 .sub{
