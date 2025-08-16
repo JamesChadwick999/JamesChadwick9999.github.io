@@ -325,9 +325,13 @@ form{
 .ali{
     display:flex;
     align-items: center;
-    margin-top: 40px;
+    justify-content: center;
 }
 .make{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
     margin-right: 10px;
 }
 .small{
