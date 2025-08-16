@@ -209,11 +209,11 @@
 
 @media screen and (max-width:1200px){
 .first-background{
-    background-image: url("./IMAGES/21.png");
+    background-image: url("./IMAGES/23.png");
     background-size: cover;
     height:420px;
     margin:-8px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     overflow: hidden;
 }
 .senior-nav-bar{
