@@ -324,6 +324,10 @@ form{
 .ali{
     display:flex;
     align-items: center;
+    margin-top: 40px;
+}
+.make{
+    margin-right: 10px;
 }
 .small{
     width:30px;
@@ -334,17 +338,13 @@ form{
     display:flex;
     justify-content: space-evenly;
     align-items: center;
+    margin-top: 40px;
 }
 .a{
     font-size: 8px;
     margin-top: 30px;
     white-space: pre-wrap;
     overflow-wrap: break-word;
-}
-.make{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
 }
 form{
     border: 1px solid black;
