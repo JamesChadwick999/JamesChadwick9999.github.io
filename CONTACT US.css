@@ -324,7 +324,7 @@ form{
 }
 .ali{
     display:flex;
-    justify-content: center;
+
 }
 .make{
     display: flex;
@@ -404,7 +404,7 @@ form{
     padding:10px;
     border: 2px solid black;
     box-shadow: 0 0 15px black;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .right{
     display:flex;
