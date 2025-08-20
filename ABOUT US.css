@@ -336,7 +336,7 @@
 }
 .he{
     text-align: center;
-    font-size: 50px;
+    font-size: 45px;
 }
 .ground{
     margin:50px;
@@ -350,19 +350,19 @@
     text-align: center;
 }
 .v{
-    font-size: 30px;
+    font-size: 33px;
     font-weight: bold;
     margin-bottom: 0px;
     text-align: center;
 }
 .l{
-    font-size:25px;
+    font-size:28px;
     margin-top: 0px;
 }
 .box{
     border-radius: 20px;
     width:280px;
-    height:440px;
+    height:410px;
     padding:20px;  
     text-align: center; 
     border: 2px solid black; 
