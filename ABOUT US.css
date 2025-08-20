@@ -298,7 +298,7 @@
 }
 .aa{
     width:320px;
-    height:300px;
+    height:320px;
     border-radius: 20px;
 }
 .q{
@@ -337,6 +337,7 @@
 .he{
     text-align: center;
     font-size: 40px;
+    margin-bottom: 30px;
 }
 .ground{
     margin:50px;
