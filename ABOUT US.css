@@ -294,14 +294,15 @@
     justify-content: center;
     align-items: center;
     margin:50px;
+    margin-top: 40px;
 }
 .aa{
-    width:330px;
+    width:320px;
     height:300px;
     border-radius: 20px;
 }
 .q{
-    font-size:55px;
+    font-size:60px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight:bold;
     margin-top: 0px;
@@ -309,7 +310,7 @@
     letter-spacing: 3px;
 }
 .qq{
-    font-size: 30px;
+    font-size: 35px;
      font-family: Arial, Helvetica, sans-serif;
 }
 .qqq{
@@ -330,12 +331,12 @@
 .w{
     border-radius: 50%;
     width:250px;
-    height:260px;
+    height:250px;
     margin-bottom: 0px;
 }
 .he{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
 }
 .ground{
     margin:50px;
@@ -360,9 +361,9 @@
 }
 .box{
     border-radius: 20px;
-    width:320px;
-    height:490px;
-    padding:15px;  
+    width:280px;
+    height:440px;
+    padding:20px;  
     text-align: center; 
     border: 2px solid black; 
     box-shadow:0 0 10px rgb(0, 5, 5);
