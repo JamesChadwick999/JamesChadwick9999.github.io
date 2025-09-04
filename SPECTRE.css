@@ -427,8 +427,8 @@
     color:white;
 }
 #profile-pic{
-    width:100px;
-    height:100px;
+    width:70px;
+    height:70px;
     border-radius: 50%;
     border:2px solid black;
     object-fit:cover;
