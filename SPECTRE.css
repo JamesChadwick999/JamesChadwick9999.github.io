@@ -393,7 +393,7 @@
     margin-top: 100px;
     margin-right: 50%;
     transform:translateX(-50%);
-    width:700px;
+    width:400px;
     background:white;
     border:2px solid black;
     border-radius: 20px;
@@ -416,7 +416,7 @@
 }
 #testimonial-text{
     min-height: 60px;
-    font-size:30px;
+    font-size:25px;
     margin-bottom: 15px;
     line-height:1.5;
 }
@@ -434,7 +434,7 @@
     margin-right: 30px;
 }
 #name{
-    font-size: 25px;
+    font-size: 30px;
 }
 .dots{
     margin-top: 15px;
