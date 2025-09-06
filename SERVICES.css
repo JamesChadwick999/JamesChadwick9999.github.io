@@ -358,7 +358,7 @@ li{
     top:50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    max-width: 350px;
+    max-width: 330px;
     animation: fadeIn 0.3s ease-in-out;
     border-radius: 20px;
     background-color: white;
