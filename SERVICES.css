@@ -137,7 +137,7 @@
     display:none;
     position: fixed;
     left:23%; 
-    top:17%;
+    top:14%;
     max-width: 1000px;
     animation: fadeIn 0.3s ease-in-out;
     border-radius: 20px;
@@ -355,9 +355,8 @@ li{
 .modal{
     display:none;
     position: fixed;
-    top:50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin: auto;
+    top:10%; left:0; bottom:10%; right:0;
     max-width: 330px;
     animation: fadeIn 0.3s ease-in-out;
     border-radius: 20px;
